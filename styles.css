@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #weather-info {
+    margin-top: 20px;
+  }
+  
+  #weather-icon img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  #error-message {
+    color: red;
+    margin-top: 20px;
+  }
+  
