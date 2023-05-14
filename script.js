@@ -51,9 +51,7 @@ function displayWeatherData(data) {
 } 
 function displayErrorMessage(message) {
   /**
-   * Clears weather data and displays an error message.
-   *
-   * @param {string} message - The error message to display.
+   * @param {string} message
    * @return {void}
    */
 }});
