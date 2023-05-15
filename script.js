@@ -50,6 +50,6 @@ function displayWeatherData(data) {
   errorMessage.textContent = 'An error has occurred. Please try again later.';
 } 
 function displayErrorMessage(message) {
-  errorMessage.textContent = message;
+  errorMessage.textContent = "An error has occurred.  Please make sure your search is spelled correctly";
 }
 });
