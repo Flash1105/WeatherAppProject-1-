@@ -23,4 +23,4 @@ Click the "Get Weather" button.
 The weather information will be displayed.  
 
 API key:
-This project uses the OpenWeatherMap API to fetch weather data. 
+This project uses the OpenWeatherMap API to fetch weather data.  To make API requests, you will need to provide your own API key by going to the OpenWeatherMap website (https://openweathermap.org/).  
