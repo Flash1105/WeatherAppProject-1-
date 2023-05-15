@@ -13,3 +13,14 @@ JavaScript
 
 Installation:
 Clone repository
+Open the project directory
+Open the index.html in a web browser
+
+How to use:
+Open weather application in a web browser.
+Enter a location in the search bar.
+Click the "Get Weather" button.
+The weather information will be displayed.  
+
+API key:
+This project uses the OpenWeatherMap API to fetch weather data. 
