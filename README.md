@@ -9,7 +9,7 @@ Display the temperature, description, humidity, and wind speed.
 
 Show an icon representing the weather condition.
 
-**languages used:** 
+**Languages Used:** 
 HTML, CSS, and JavaScript.
 
 **Installation:** 
