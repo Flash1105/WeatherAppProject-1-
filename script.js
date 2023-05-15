@@ -21,7 +21,7 @@ function fetchWeatherData(location) {
   fetch(apiUrl)
     .then(response => {
       if (!response.ok) {
-        throw new Error('Weather data not available for the location.');
+        throw new Error('Weather data not available for the location.'); //this is the erorr message you should receive when location is misspelled
       }
       return response.json();
     })
