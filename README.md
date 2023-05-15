@@ -1,5 +1,5 @@
-Weather application
-this is a very simple weather application that allows users to retrieve weather information for specific locations.
+Weather Application:
+This is a very simple weather application that allows users to retrieve weather information for specific locations.
 
 Features:
 Enter a location to get the weather information.
