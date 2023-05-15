@@ -27,6 +27,7 @@ function fetchWeatherData(location) {
     })
     .then(data => {
       displayWeatherData(data);
+      clearErrorMessage();
     })
     .catch(error => {
       displayErrorMessage(error.message);
@@ -50,4 +51,8 @@ function displayWeatherData(data) {
 function displayErrorMessage(message) {
   errorMessage.textContent = message;
 }
+  
+  function clearErrorMessage() {
+    errorMessage.textContent = '';
+  }
 });
