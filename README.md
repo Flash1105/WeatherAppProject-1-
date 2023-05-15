@@ -24,7 +24,13 @@ The weather information will be displayed.
 
 API key:
 This project uses the OpenWeatherMap API to fetch weather data.  To make API requests, you will need to provide your own API key by going to the OpenWeatherMap website (https://openweathermap.org/).  
+Contributing:
+To anyone who is interested in this project, feel free to fork and clone their own copy and submit changes or feature implementations to be approved by me.  Please test and debug all features before submitting them for implementation. 
+
+Credit:
+All images and weather information was sourced from https://openweathermap.org/.  
 
 License:
 MIT license
 Copyright(c) 2023 Alex Dulaney
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files to deal in the Software without restriction, includeing without limitation the right to use, copy, modify, merge, publish, distribute, and/or sell copies of the software.  
