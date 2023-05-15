@@ -40,7 +40,7 @@ function displayWeatherData(data) {
   weatherIcon.innerHTML = `<img src="${iconUrl}" alt="Weather Icon">`;
 
   const celsiusTemperature = data.main.temp;
-  const fahrenheitTemperature = (celsiusTemperature * 9) / 5 + 32;
+  const fahrenheitTemperature = (celsiusTemperature * 9) / 5 + 32; //math for the fahrenheit conversion
 
   temperature.textContent = `Temperature: ${celsiusTemperature} °C / ${fahrenheitTemperature} °F`;
   description.textContent = `Description: ${data.weather[0].description}`;
