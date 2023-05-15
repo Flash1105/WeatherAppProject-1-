@@ -10,7 +10,7 @@ Display the temperature, description, humidity, and wind speed.
 Show an icon representing the weather condition.
 
 **languages used:** 
-HTML, CSS, and JavaScript
+HTML, CSS, and JavaScript.
 
 **Installation:** 
 Clone repository, Open the project directory, then Open the index.html in a web browser.
