@@ -10,7 +10,7 @@ Installation: Clone repository, Open the project directory, then Open the index.
 
 How to use: Open the weather application in a web browser. Enter a location in the search bar. Click the "Get Weather" button. The weather information will be displayed.
 
-API key: This project uses the OpenWeatherMap API to fetch weather data. To make API requests, you will need to provide your own API key by going to the OpenWeatherMap website (https://openweathermap.org/). 
+API key: This project uses the OpenWeatherMap API to fetch weather data. To make API requests, you will need to provide your own API key by going to the OpenWeatherMap website (https://openweathermap.org/) and create an account.
 
 Contributing: To anyone who is interested in this project, feel free to fork and clone their own copy and submit changes or feature implementations to be approved by me. Please test and debug all features before submitting them for implementation.
 
