@@ -3,7 +3,9 @@ This is a very simple weather application that allows users to retrieve weather 
 
 **Features:**
 Enter a location to get the weather information. 
+
 Display the temperature, description, humidity, and wind speed. 
+
 Show an icon representing the weather condition.
 
 **languages used:** 
