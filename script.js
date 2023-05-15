@@ -17,7 +17,7 @@ weatherForm.addEventListener('submit', function (event) {
 
 
 function fetchWeatherData(location) {
-  const apiKey = 'fbbde147c33691fe80920cb909533f63';
+  const apiKey = 'fbbde147c33691fe80920cb909533f63';  //this is the API key you will need to change.
   const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=metric&appid=${apiKey}`;
 
   fetch(apiUrl)
